@@ -12,6 +12,7 @@ public class HomePage extends BasePage {
 
     // Locators
     private final By signupLoginButton = By.xpath("//a[@href= '/login' ]");
+    private final By test = null;
 
     // Actions
     public HomePage navigateToSignupLoginPage(){
