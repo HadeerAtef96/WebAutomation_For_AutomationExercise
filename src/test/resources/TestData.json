@@ -1,0 +1,42 @@
+{
+  "validUser": {
+    "name": "hadeer",
+    "password": "Yy@123456",
+    "birthDay": "12",
+    "birthMonth": "June",
+    "birthYear": "1996",
+    "firstName": "hadeer",
+    "lastName": "atef",
+    "companyName": "makka",
+    "address1": "Test Address 1",
+    "address2": "Test Address 2",
+    "country": "Canada",
+    "state": "shoubra",
+    "city": "Cairo",
+    "zipCode": "50525",
+    "mobile": "0512312312"
+  },
+
+  "invalidUser": {
+    "name": "",
+    "password": "",
+    "birthDay": "50",
+    "birthMonth": "Test",
+    "birthYear": "5000",
+    "firstName": "%",
+    "lastName": "24",
+    "companyName": "makka",
+    "address1": "Test Address 1",
+    "address2": "Test Address 2",
+    "country": "Egypt",
+    "state": "shoubra",
+    "city": "Cairo",
+    "zipCode": "50525",
+    "mobile": "123"
+  },
+
+  "successMessages":{
+    "signUpTitle": "ACCOUNT CREATED!",
+    "signUpDescription": "Congratulations! Your new account has been successfully created!"
+  }
+}
